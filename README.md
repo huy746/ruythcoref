@@ -22,7 +22,10 @@ pip install ruythcoref
 ```
 ## Code
 ```bash
-hi
+import ruythcoref 
+#Convert file from .txt to .pdf
+
+ruythcoref.convert("example.txt", "example.pdf")
 ```
 > - Note: You can rename the current file.
 
