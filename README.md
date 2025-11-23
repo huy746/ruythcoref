@@ -1,9 +1,7 @@
 ![banner](https://github.com/huy746/ruythcoref/blob/main/template/banner.png)
 # ruythcoref
-[![discord](https://img.shields.io/badge/join_us-on_discord-5865F2?)](https://discord.gg/)
-
+[![discord](https://img.shields.io/badge/join_us-on_discord-5865F2?)](https://discord.gg/p9td7x8Mj4)
 [![pypi](https://img.shields.io/pypi/v/ruytcoref.svg)](https://pypi.org/project/ruythcoref)
-
 [![Python](https://img.shields.io/pypi/pyversions/ruythcoref.svg)](https://pypi.org/project/ruythcoref)
 
 > - ruythcoref is a library that converts files from .txt to .pdf
